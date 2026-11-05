@@ -1,27 +1,24 @@
 # Hi, I'm Kiran Takate
 
-## Cybersecurity Consultant
+## Cybersecurity Consultant | Conan Query Labs
 
 I'm building a portfolio focused on practical cybersecurity, clear technical documentation, and continuous learning. My goal is to connect technical findings with understandable risks and actionable improvements.
 
 ### Portfolio direction
 
-- Document hands-on security labs and explain the lessons learned.
-- Explore Python automation for repeatable security tasks.
-- Develop case studies that explain scope, evidence, risk, and remediation.
-
-### Existing repositories
-
-These repositories form part of my learning history and are being organized as I develop this portfolio.
-
-- [CDAC](https://github.com/conan0912/CDAC)
-- [Python](https://github.com/conan0912/python3)
-- [Web Development](https://github.com/conan0912/Web-development)
+- KQL queries for security investigation, threat hunting, and detection.
+- Python automation for repeatable security tasks.
+- Web and application development projects.
+- Hands-on security labs and case studies explaining scope, evidence, risk, and remediation.
 
 ### How I approach security
 
-I value clear scope, reproducible evidence, practical recommendations, and responsible handling of information. Any security demonstrations shared here should be used only in authorized environments.
+I value clear scope, reproducible evidence, practical recommendations, and responsible handling of information. Security demonstrations shared here are intended for authorized environments.
+
+### Work in progress
+
+My existing learning projects are private while I organize this portfolio. Public queries, tools, and case studies will be added as they are ready.
 
 ---
 
-[Explore my repositories](https://github.com/conan0912?tab=repositories)
+[Explore my public repositories](https://github.com/conanquerylabs?tab=repositories)
